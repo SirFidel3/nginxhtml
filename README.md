@@ -10,7 +10,8 @@ Creamos el archivo index.html y lo guardamos en la carpeta que hemos creado ante
 
 3)
 Ejecutamos el siguiente comando para crear nuestro directorio local
-![image](https://user-images.githubusercontent.com/91744605/168880541-107e9bf2-a4cb-4ec4-9cea-4f9238e2a8ce.png)
+![image](https://user-images.githubusercontent.com/91744605/169017522-58c1edab-ae66-47e1-8929-074d98f091ef.png)
+
 
 4)
 ![image](https://user-images.githubusercontent.com/91744605/169017287-92e23da8-8d74-4f8d-9a16-942dc77ba4ff.png)
