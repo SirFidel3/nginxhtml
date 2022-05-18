@@ -13,3 +13,6 @@ Ejecutamos el siguiente comando para crear nuestro directorio local
 ![image](https://user-images.githubusercontent.com/91744605/168880541-107e9bf2-a4cb-4ec4-9cea-4f9238e2a8ce.png)
 
 4)
+![image](https://user-images.githubusercontent.com/91744605/169017287-92e23da8-8d74-4f8d-9a16-942dc77ba4ff.png)
+Finalmente ya lo tenemos funcionando
+
